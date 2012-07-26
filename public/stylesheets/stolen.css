@@ -1,0 +1,13 @@
+
+div.container {
+    font-family: 'Expletus Sans', Helvetica;
+    text-align: center;
+    font-size: 52.83px; }
+
+div.row { min-height: 1000px; }
+    div.row.first { background-color: lightGrey; }
+    div.row.second { background-color: darkGray; }
+    div.row.third { background-color: Yellow; }
+    div.row.fourth { background-color: darkGray; }
+    div.row.fifth { background-color: Purple; }
+

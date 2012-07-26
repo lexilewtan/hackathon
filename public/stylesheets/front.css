@@ -1,0 +1,110 @@
+body { 
+background: url(file:///Users/lexilewtan/hackathon/public/knowledgebackground.jpg) fixed top center; 
+}
+/*
+  <link href='http://fonts.googleapis.com/css?family=Expletus+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400,900,900italic' rel='stylesheet' type='text/css'>
+*/
+
+div.row { min-height: 1000px;}
+    div.row.first { background: rgba(30, 30, 30, 0.1) }
+    div.row.second { background: rgba(110, 123, 139, 0) }
+    div.row.third { background: rgba(162, 181, 205, 0) }
+    div.row.fourth { background: rgba(110, 123, 139, 0) }
+    div.row.fifth { background: rgba(162, 181, 205, 0) }
+}    
+
+li {
+float:center;}
+
+a {
+display:block;
+width:200px;
+font-family: 'Expletus Sans', Helvetica;
+color: #fff;
+font-size: 20px;
+text-decoration: none;
+}
+
+h1 {
+  font-family: 'Alegreya SC', serif;
+  font-size: 100px; 
+  font-style: bold;
+  color: rgba(188, 238, 104, .9);
+  text-align: center;
+    }
+
+ h2 { 
+    font-family: 'Alegreya SC', Helvetica;
+    font-size: 53px; 
+    color: rgba(188, 238, 104, .75);
+    text-align: center;
+    }
+
+h3 { 
+    font-family: 'Helvetica Neue', Helvetica;
+    text-align: center;
+    font-size: 22.83px; 
+    color: rgba(255, 255, 255, 0.75);
+    padding-right: 100px;
+    padding-left: 100px;
+      }
+
+   h4 { 
+    font-family: 'Helvetica', Helvetica;
+    text-align: center;
+    font-size: 31.83px; 
+    color: rgb(255, 255, 255);
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-top: 150px;
+      }   
+ h5 { 
+    font-family: 'Helvetica Neue', Helvetica;
+    text-align: center;
+    font-size: 36.83px; 
+    color: rgba(255, 255, 255, 0.7);
+    padding-right: 180px;
+    padding-left: 180px;
+      }
+  h6 {
+    font-family: 'Helvetica', Helvetica;
+    text-align: center;
+    font-size: 31.83px; 
+    color: rgba(192, 255, 62, 0.7);
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-top: 150px;
+
+
+ p {
+   font-family: 'Helvetica Neue', Helvetica;
+    text-align: center;
+    font-size: 26.83px; 
+    color: rgba(255, 255, 255, 0.7);
+    padding-right: 180px;
+    padding-left: 180px;
+}
+
+  ul li {
+    font-size: 12px;
+    list-style: square; }
+
+  
+pre {
+  padding: 10px;
+  font-size: 11px; }
+
+a {
+    color: rgba(255, 255, 255, 0.7);
+  &:visited {
+      color: rgba(255, 255, 255, 1); }
+  &:hover {
+  color: rgba(255, 255, 255, 0.5);
+   } }
+
+
+
+
+
+

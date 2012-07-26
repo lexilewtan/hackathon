@@ -1,0 +1,50 @@
+.container-pop span.container-hover {
+	display: none;
+} 
+.container-pop:hover span.container-hover {
+	display: inline;
+}
+/** DO NOT EDIT ABOVE **/
+/** OK TO EDIT BELOW **/
+.container-pop span span{
+	margin: 0 0.2em 0 0.2em;
+}
+img.container-glyph {
+  border-width:0;
+  image-rendering:optimizeQuality;
+  -ms-interpolation-mode:bicubic;
+  height: 0.75em;
+  margin:0 0.15em -0.1em 0.15em;
+}
+.container-pop {
+	color: #579;
+}
+span.container-em {
+	font-family: "Courier New";
+	font-size: 110%;
+}
+a.container-link {
+}
+span.container-realname {
+}
+
+/******** ADMIN PAGE STYLES ************/
+.container-form-table {
+	border-collapse: collapse;
+  clear: both;
+  margin-bottom: -8px;
+  margin-top: 0.5em;
+  width: 50em;
+	margin-left:2em;
+}
+.container-form-table td {
+	font-size:12px;
+}
+.container-form-table td>input {
+	width:4em;
+}
+.container-form-table th {
+	font-size:13px;
+	font-weight:normal;
+	text-align:left;
+}
